@@ -1,7 +1,7 @@
 import "./global.css";
 import { ReactNode } from "react";
 import { Michroma, Comic_Neue,Smooch_Sans } from "next/font/google";
-import Navbar from "./components/navbar";
+import Navbar from "./components/Navbar";
 import Footer from "./components/footer";
 
 
